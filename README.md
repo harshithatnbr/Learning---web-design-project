@@ -1,2 +1,2 @@
 # Learning---web-design-project
-I am doing this project as a part of MicroSoft design challenge 2022
+This is my first UI/UX design project. I amgoing to submit for a challenge.
